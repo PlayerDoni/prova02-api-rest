@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "prova02-api-rest"
 version = "0.1.0"
-description = ""
-authors = ["Seu Nome <seuemail@email.com>"]
+description = "Porova 2 de web"
+authors = ["Donovan Teixeira de Lima <donovanteixeiradelima@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
